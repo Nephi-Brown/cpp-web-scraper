@@ -1,0 +1,4 @@
+build/
+scraped_sites.txt
+.DS_Store
+.vscode/
