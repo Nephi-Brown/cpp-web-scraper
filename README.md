@@ -37,7 +37,6 @@ The purpose of writing this software was to gain hands-on experience with modern
 - [brightdata](https://brightdata.com/blog/how-tos/web-scraping-in-c-plus-plus)
 - [zenrows](https://www.zenrows.com/blog/c-plus-plus-web-scraping#request-target-page)
 - [Learn C++](https://www.learncpp.com/)
-- [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
